@@ -24,7 +24,7 @@ button.btn-enter .circle {
 	margin: 0;
 	width: 3rem;
 	height: 3rem;
-	background: #282936;
+	background: #57d8cd;
 	border-radius: 1.625rem;
 }
 
@@ -90,7 +90,15 @@ button:hover .button-text {
 	flex-direction: row;
 	justify-content: center;
 	flex-wrap: wrap;
+	text-align: center;
 }
 .card {
-	margin: 5px;
+	margin: 30px;
+	backdrop-filter: blurd(10px);
+	box-shadow: 5px 10px 20px rgba(0,0,0,.6);
+}
+
+.card-title{
+	color: #121212;
+	margin-top: 2rem;
 }

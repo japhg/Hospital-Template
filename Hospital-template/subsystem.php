@@ -54,7 +54,7 @@
 
     <!-- Start Section page -->
 <section class="card-section">
-<div class="card"  style="width: 14rem; ">
+<div class="card"  style="width: 15rem;">
   <img src="https://cdn-icons-png.flaticon.com/512/5928/5928316.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">HUMAN RESOURCE 1</h5>
@@ -67,7 +67,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/5928/5928334.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">HUMAN RESOURCE 2</h5>
@@ -80,7 +80,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/6857/6857441.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">CORE 1</h5>
@@ -93,7 +93,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/5928/5928401.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">CORE 2</h5>
@@ -106,7 +106,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/5928/5928522.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">CORE 3</h5>
@@ -119,7 +119,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/6738/6738562.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">LOGISTIC 1</h5>
@@ -132,7 +132,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/6738/6738563.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">LOGISTIC 2</h5>
@@ -145,7 +145,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 14rem; ">
+<div class="card" style="width: 15rem; ">
   <img src="https://cdn-icons-png.flaticon.com/512/4593/4593628.png" class="card-img-top" width ="20px">
   <div class="card-body">
     <h5 class="card-title">FINANCIALS</h5>
