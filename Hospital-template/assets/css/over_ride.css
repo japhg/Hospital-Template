@@ -24,7 +24,7 @@ button.btn-enter .circle {
 	margin: 0;
 	width: 3rem;
 	height: 3rem;
-	background: #57d8cd;
+	background: #03989e;
 	border-radius: 1.625rem;
 }
 
@@ -101,4 +101,9 @@ button:hover .button-text {
 .card-title{
 	color: #121212;
 	margin-top: 2rem;
+}
+
+#a-logo{
+	width: 50vw;
+
 }
