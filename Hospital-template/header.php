@@ -6,7 +6,7 @@
   <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
-      <a href="index.php" class="logo d-flex align-items-center">
+      <a href="dashboard.php" class="logo d-flex align-items-center">
         <img src="assets/img/alegario_logo.png" alt="Alegario Cure Hospital Logo" class="img-responsive">
         <span class="d-none d-lg-block"><b style="color: #03989e">Alegario Cure</b> <b style="color: #66CC33">Hospital</b></span>
       </a>
@@ -217,7 +217,7 @@
             </li>
 
             <li>
-              <a class="dropdown-item d-flex align-items-center" href="#">
+              <a class="dropdown-item d-flex align-items-center" href="logout.php">
                 <i class="bi bi-box-arrow-right"></i>
                 <span>Sign Out</span>
               </a>
