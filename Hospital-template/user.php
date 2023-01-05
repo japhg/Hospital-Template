@@ -179,6 +179,7 @@ if(isset($_SESSION['success'])){ ?>
             <input type="text" class="form-control" name="username" id="username" required>
             <div class="invalid-feedback">Please enter username</div>
           </div>
+          
           <div class="mb-3">
             <label for="password" class="form-label">Password</label>
             <input type="password" class="form-control validate" name="password" id="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required>
@@ -191,6 +192,7 @@ if(isset($_SESSION['success'])){ ?>
             <li class="requirements num"><i class="fas fa-check green-text"></i><i class="fas fa-times red-text"></i> Your password must have at least 1 number.</li>
           </ul>
         </div>
+
           <div class="mb-3">
             <label for="firstname" class="form-label">Firstname</label>
             <input type="text" class="form-control" name="firstname" id="firstname" required>
